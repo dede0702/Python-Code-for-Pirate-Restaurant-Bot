@@ -22,7 +22,6 @@ O Pirate Restaurant Bot é um assistente virtual que interage com os usuários d
 
 * André Rovai - RM555848
 * Lancelot Chagas - RM554707
-* Leonardo Zago - RM558691
 * Ana Carolina Martins - RM555762
 
 ## 📄 Licença
